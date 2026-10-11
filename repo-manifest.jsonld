@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-dbbackup/commit/6714cd0122483cd2ba79722764a51bedad6a9caa",
       "git:hexsha": "6714cd0122483cd2ba79722764a51bedad6a9caa",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "5.3.1"
     },
     {
